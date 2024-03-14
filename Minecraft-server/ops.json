@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "8c533d8c-17d8-3b4e-aba3-2ec5034acc8d",
+    "name": "Oscats",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3b2a114d-2fc7-3cb5-8774-4c0277a3e709",
+    "name": "GigaCAM",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

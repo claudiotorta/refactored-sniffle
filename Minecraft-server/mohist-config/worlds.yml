@@ -1,0 +1,11 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    seed: -2930427396870103895
+    environment: NORMAL
+    name: world
+    info: -/-
+    difficulty: EASY
+    mohist: false
+  DIM-1:
+    worldborder: 5.9999968E7
